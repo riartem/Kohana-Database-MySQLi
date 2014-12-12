@@ -7,9 +7,10 @@ One of the first things I did then was copy the mysql classes and update them to
 
 Installation
 ============
-Extract to a module folder 'mysqli' under your modules directory and enable in your bootstrap.php file. Alternately, extract into MODPATH/database
+Extract to a module folder 'mysqli' under your modules directory and enable in your bootstrap.php file. Alternately, extract into MODPATH/database. 
+Change 'type' 'MySQL' to 'MySQLi' in config/database.php
 
 
 Suggestions
 ============
-Shoot me an email to azuka [at] zatechcorp.com.
+Shoot me an email to a [at] rizhenkov.by.
